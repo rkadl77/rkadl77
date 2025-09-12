@@ -8,12 +8,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * ✉️  You can contact me at [rkadlwhy@gmail.com](mailto:rkadlwhy@gmail.com)
 
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=rkadl77&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rkadl77&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rkadl77&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=rkadl77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
