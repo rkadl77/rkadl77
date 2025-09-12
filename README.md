@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### 🐍 Contribution Graph Snake
 
-![Snake animation](https://raw.githubusercontent.com/rkadl77/rkadl77/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/rkadl77/rkadl77/output/dist/github-contribution-grid-snake-dark.svg)
 
 ### Skills
 <p align="left">
