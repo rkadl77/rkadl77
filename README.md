@@ -1,9 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Timur
-==============================================================================================================================
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
-
-.NET Developer
+.NET Developer <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 --------------
 
 ![Snake animation](https://github.com/rkadl77/rkadl77/blob/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
